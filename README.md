@@ -35,7 +35,7 @@ Run :
 
 其中的namenode容器id可以直接在docker desktop主界面拷贝,
 或通过`$ docker container ls`命令查看:![Alt text](image-4.png)
-run: `hadoop jar hadoop-mapreduce-examples-2.5.1.jar pi 10 10`
+在namenode容器中运行: `hadoop jar hadoop-mapreduce-examples-2.5.1.jar pi 10 10`
 
 ![Alt text](image-6.png)
 
