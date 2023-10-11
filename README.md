@@ -41,4 +41,5 @@ run: `hadoop jar hadoop-mapreduce-examples-2.5.1.jar pi 10 10`
 
 ### 测试使用hbase
 ![Alt text](image-3.png)
+
 成功
